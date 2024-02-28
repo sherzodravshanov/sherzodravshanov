@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sherzod and I'm a Developer, from Uzbekistan</p>
 
 ###
 
